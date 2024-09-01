@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/bot.ico",
+      "sha1": "2b39d115e4908d9aa6709574a49e2f50f9c2ee1b"
+    },
+    {
+      "path": "assets/bot.png",
+      "sha1": "1ec9c6966209ae588edb2c9778fa3c58334b6388"
+    },
+    {
+      "path": "assets/light.png",
+      "sha1": "13b9b8565912bbd100baf79da1d301697520661b"
+    },
+    {
+      "path": "assets/nightmode.png",
+      "sha1": "1cae508c38b4c589ac6de35a77b800d5ee53aeab"
+    }
+  ]
+}

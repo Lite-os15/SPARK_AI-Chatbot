@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Orion",
+			"path": "."
+		},
+		{
+			"name": "assets",
+			"path": "../Voice_Assistant/assets"
+		}
+	],
+	"settings": {}
+}
